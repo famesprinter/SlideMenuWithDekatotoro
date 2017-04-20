@@ -13,6 +13,7 @@
 		F0EE7D261EA8F6C3004F9DAA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0EE7D241EA8F6C3004F9DAA /* Main.storyboard */; };
 		F0EE7D281EA8F6C3004F9DAA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F0EE7D271EA8F6C3004F9DAA /* Assets.xcassets */; };
 		F0EE7D2B1EA8F6C3004F9DAA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0EE7D291EA8F6C3004F9DAA /* LaunchScreen.storyboard */; };
+		F0EE7D331EA8FFCB004F9DAA /* LeftMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0EE7D321EA8FFCB004F9DAA /* LeftMenuViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F0EE7D271EA8F6C3004F9DAA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F0EE7D2A1EA8F6C3004F9DAA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F0EE7D2C1EA8F6C3004F9DAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F0EE7D321EA8FFCB004F9DAA /* LeftMenuViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LeftMenuViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 			children = (
 				F0EE7D201EA8F6C3004F9DAA /* AppDelegate.swift */,
 				F0EE7D221EA8F6C3004F9DAA /* ViewController.swift */,
+				F0EE7D321EA8FFCB004F9DAA /* LeftMenuViewController.swift */,
 				F0EE7D241EA8F6C3004F9DAA /* Main.storyboard */,
 				F0EE7D271EA8F6C3004F9DAA /* Assets.xcassets */,
 				F0EE7D291EA8F6C3004F9DAA /* LaunchScreen.storyboard */,
@@ -213,6 +216,7 @@
 			files = (
 				F0EE7D231EA8F6C3004F9DAA /* ViewController.swift in Sources */,
 				F0EE7D211EA8F6C3004F9DAA /* AppDelegate.swift in Sources */,
+				F0EE7D331EA8FFCB004F9DAA /* LeftMenuViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
